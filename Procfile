@@ -1,1 +1,1 @@
-web: gunicorn gfd:app --log file
+web: gunicorn gfd:app
