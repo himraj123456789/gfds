@@ -71,7 +71,7 @@ def result():
       return render_template("result.html",result = re)
 
 if __name__ == '__main__':
-   app.secret_key='himalaya'
+   
    app.run(debug = False)
 
    
