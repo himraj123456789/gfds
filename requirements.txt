@@ -1,5 +1,6 @@
 bs4==0.0.1
 Flask==1.1.2
+gunicorn ==19.9.0
 Flask-Bcrypt==0.7.1
 Flask-Cache==0.13.1
 Flask-Markdown==0.3
