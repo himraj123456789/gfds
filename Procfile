@@ -1,0 +1,1 @@
+web: gunicorn gfd.py:app --log file
